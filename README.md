@@ -38,7 +38,7 @@
 ### 🤖 AI & ML:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Google_Gemini_logo.svg" alt="Gemini AI" width="50" height="50" />
+  <img src="https://gemini.google.com/" alt="Gemini AI" width="50" height="50" />
 </p>
 
 ### 🛠 Tools & Platforms:
